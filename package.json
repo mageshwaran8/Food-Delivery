@@ -8,9 +8,9 @@
   "main": "server.js",
   
   "scripts": {
-   "server":"nodemon server.js",
+   "server":"nodemon server.js"
    
-    "clean-env": "del .env"
+   
 
   },
   "dependencies": {
